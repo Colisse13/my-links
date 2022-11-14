@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 320px;
+    text-align: center;
+    margin-top: 41px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.capa {
+    width: 320px;
+    height: 320px;
+    border-radius: 20px;
+}
+
+h1 {
+    font-size: 200%;
+    color: white;
+    margin-top: 31px;
+    margin-bottom: 8px;
+}
+
+p {
+    color: white;
+}
+
+ul {
+    margin-top: 35px;
+}
+
+li {
+    margin-bottom: 18px;
+    list-style: none;
+}
+
+a {
+    font-size: 150%;
+    background-color: limegreen;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    display: block;
+    width: 320px;
+    height: 40px;
+    border-radius: 5px;
+}
+
